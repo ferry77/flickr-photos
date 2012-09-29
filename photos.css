@@ -12,7 +12,7 @@ body {
     float: left;
     margin: 0 2px 2px 0;
     overflow: hidden;
-    height: 160px;
+    height: 190px;
 }
 
 .photo,
@@ -20,3 +20,6 @@ body {
     min-width: 160px;
     max-width: 240px;
 }
+
+/*FH*/
+a.fav-btn {font-size: 24px; color: #9D261D; text-decoration: none; line-height: 1.2em; cursor: pointer; display: block; }
